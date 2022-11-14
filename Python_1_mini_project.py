@@ -1,6 +1,6 @@
-# # for random pick up uncomment below: random library & template = random.randint(1,3); and comment: template with input function
+# # !for random pick up uncomment below: random library & template = random.randint(1,3); and comment: template with input function
 # import random
-# template = random.randint(1,3) !
+# template = random.randint(1,3) 
 if int(template) == 1:
     number = input('Input a number: ')
     time = input('Measure of time: ')
