@@ -1,6 +1,6 @@
-# # for random pick up uncomment below: random library & template = random.randint(1,3); and comment: template with input function
+# # !for random pick up uncomment below: random library & template = random.randint(1,3); and comment: template with input function
 # import random
-# template = random.randint(1,3)
+# template = random.randint(1,3) 
 
 template = input('Type story number (a digit out of 1, 2 or 3): ')
 
